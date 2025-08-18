@@ -1,0 +1,11 @@
+# List of dependencies
+fastapi
+uvicorn
+scikit-learn
+pandas
+mlflow
+xgboost
+joblib
+pydantic
+ipykernel
+numpy

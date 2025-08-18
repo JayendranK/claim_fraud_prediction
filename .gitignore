@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data and models
+data/processed/full_dataset.csv
+data/raw/
+mlruns/
+models/
+
+notebooks/
+*.ipynb_checkpoints
